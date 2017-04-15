@@ -1,4 +1,7 @@
-# JavaScript Development Environment [![Build Status](https://travis-ci.org/BrutalSimplicity/javascript-development-environment.svg?branch=master)](https://travis-ci.org/BrutalSimplicity/javascript-development-environment)
+# JavaScript Development Environment 
+
+Travis: [![Build Status](https://travis-ci.org/BrutalSimplicity/javascript-development-environment.svg?branch=master)](https://travis-ci.org/BrutalSimplicity/javascript-development-environment)
+AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/5kda29u5pjkwkpf7?svg=true)](https://ci.appveyor.com/project/BrutalSimplicity/javascript-development-environment)
 
 This is a generic JavaScript development environment that I build from scratch in ["Building a JavaScript Development Environment" on Pluralsight](https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents). This isn't tied to any specific JS framework.
 
